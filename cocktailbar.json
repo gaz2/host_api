@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "id": 1,
       "title": "Home",
@@ -25,4 +24,3 @@
       "content": "Get in touch with us. We are always here to answer your questions."
     }
   ]
-}
