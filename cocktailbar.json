@@ -1,0 +1,22 @@
+  "pages": [
+    {
+      "id": 1,
+      "title": "Home",
+      "content": "Welcome to our website! We offer a wide range of products and services."
+    },
+    {
+      "id": 2,
+      "title": "About Us",
+      "content": "Learn more about our company and our mission to provide excellent service."
+    },
+    {
+      "id": 3,
+      "title": "Products",
+      "content": "Explore our latest products and find the perfect one for your needs."
+    },
+    {
+      "id": 4,
+      "title": "Contact",
+      "content": "Get in touch with us. We are always here to answer your questions."
+    }
+  ]
