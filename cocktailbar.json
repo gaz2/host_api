@@ -1,23 +1,27 @@
 {
-  "pages": [
+  "products": [
     {
       "id": 1,
       "title": "Home",
+      "description": "Страница номер 1",
       "content": "Welcome to our website! We offer a wide range of products and services."
     },
     {
       "id": 2,
       "title": "About Us",
+      "description": "Страница номер 2",
       "content": "Learn more about our company and our mission to provide excellent service."
     },
     {
       "id": 3,
       "title": "Products",
+      "description": "Страница номер 3",
       "content": "Explore our latest products and find the perfect one for your needs."
     },
     {
       "id": 4,
       "title": "Contact",
+      "description": "Страница номер 4",
       "content": "Get in touch with us. We are always here to answer your questions."
     }
   ]
